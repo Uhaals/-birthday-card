@@ -97,7 +97,7 @@ section:target{display:block;}
     border-radius: 50% 50% 50% 50%;
     position: absolute;
     bottom: 0;
-    animation: floatUp 6s linear forwards;
+    animation: floatUp 60s linear forwards;
   }
   
   @keyframes floatUp {
